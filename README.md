@@ -7,7 +7,6 @@
  - 🤔 I’m looking for help with data science and it's related subjects    
  - 💬 Ask me about books, stoicism, dogs and of course Data Science
  - 📫 How to reach me: Twitter: Twitter: [lians__](https://twitter.com/lians___) & Email: [Lians](lianswanjiku@icloud.com)
- - 
  - 😄 Pronouns: Her/She 
  - ⚡ Fun fact: I consider board games a sport and No one I know can beat me while playing ludo.
 
