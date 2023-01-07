@@ -1,11 +1,11 @@
 <h1 align="center">Hi there? It's Lians ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h3 align="center">I am a Professional Data Scientist</h3>
- - 💻 I am a Machine Learning Engineer.
- - 💻 I also handle Data Analysis projects.
- - 📫 Email me at lianswanjiku@icloud.com
- - 🔭 I’m currently working on different Machine Learning Projects. 
- - ⚡ Fun fact: I consider board games a sport and No one I know can beat me while playing ludo.
+- 💻 I am a Machine Learning Engineer.
+- 💻 I also handle Data Analysis projects.
+- 📫 Email me at lianswanjiku@icloud.com
+- 🔭 I’m currently working on different Machine Learning Projects. 
+- ⚡ Fun fact: I consider board games a sport and No one I know can beat me while playing ludo.
  
  <p align="center">
  <a href="https://twitter.com/lians___">
