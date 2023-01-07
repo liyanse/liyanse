@@ -1,6 +1,7 @@
 <h1 align="center">Hi there? It's Lians ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h3 align="center">I am a Professional Data Scientist</h3>
+
 - 💻 I am a Machine Learning Engineer.
 - 💻 I also handle Data Analysis projects.
 - 📫 Email me at lianswanjiku@icloud.com
