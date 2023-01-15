@@ -16,4 +16,3 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=liyanse&hide_border=true&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
