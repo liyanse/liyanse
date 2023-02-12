@@ -7,6 +7,7 @@
 - 📫 Email me at lianswanjiku@icloud.com
 - 🔭 I’m currently working on different Machine Learning Projects. 
 - ⚡ Fun fact: I consider board games a sport and No one I know can beat me while playing ludo.
+- 👩‍💻 I have worked at Center of Data Science and Artificial Intelligence and Ngeni Labs
  
  <p align="center">
  <a href="https://twitter.com/lians___">
