@@ -7,16 +7,15 @@
 </div>
 
 
-<h1 align="center">Hi there? It's Lians ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
-<h3 align="center">I am a Professional Data Scientist</h3>
-
-- 💻 I am a Machine Learning Engineer.
-- 💻 I also handle Data Analysis projects.
-- 📫 Email me at lianswanjiku@icloud.com
-- 🔭 I’m currently working on different Machine Learning Projects. 
-- ⚡ Fun fact: I consider board games a sport and No one I know can beat me while playing ludo.
-- 👩‍💻 I have worked at Center of Data Science and Artificial Intelligence and Ngeni Labs
+### About me!
+---
+Ola 👋
+<p>I'm<b>Lians Wanjiku, a data scientist.</b>
+ </br>
+I'm currently working as a Machine Learning Engineer.
+I am obsessed with deriving better solutions from data, especially computer vision models.
+Welcome to my small world where I show you some of the solutions I have worked on with data.
+</p>
  
  <p align="center">
  <a href="https://twitter.com/lians___">
