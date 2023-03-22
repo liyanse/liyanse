@@ -35,8 +35,6 @@ I'm currently working as a Machine Learning Engineer.
 
 ---
 <div>
- ### ⚒️ : My Best Work:
- - **MarketBasketAnalysis:** I used the apriori algorithm to build a product recommender system that is deployed with FastAPI and Docker
 </div>
 
 
