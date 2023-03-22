@@ -25,20 +25,20 @@ I'm currently working as a Machine Learning Engineer.
  I am obsessed with deriving better solutions from data, especially computer vision models.
  Welcome to my small world where I show you some of the solutions I have worked on with data.
 </p>
- 
  - ⚡ Fun fact: I love playing board games and wild photography 😄
-
 </br>
 
-### :hammer_and_wrench: Skills:
+### 🛠️: Skills:
 - **Proficient:** Python, Computer Vision(YOLOv), OpenAI, Machine Learning
 - **Moderate:** SQL, PowerBi
 - **Database:** SQL Server, MySQL
 
 ---
 <div>
- 
+ ### ⚒️ : My Best Work:
+ - **MarketBasketAnalysis:** I used the apriori algorithm to build a product recommender system that is deployed with FastAPI and Docker
 </div>
+
 
 </br>
 
