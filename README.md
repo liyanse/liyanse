@@ -1,3 +1,21 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/lians-wanjiku-430392247/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/lians___">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=Joan-Wanjiru-N&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 <h1 align="center">Hi there? It's Lians ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h3 align="center">I am a Professional Data Scientist</h3>
