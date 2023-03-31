@@ -21,7 +21,7 @@
 Ola 👋
 <p>I'm <b>Lians Wanjiku, a data scientist.</b>
  </br>
-I'm currently working as a Machine Learning Engineer. 
+I'm currently working as a Machine Learning Engineer and Junior Data Analyst. 
  I am obsessed with deriving better solutions from data, especially computer vision models.
  Welcome to my small world where I show you some of the solutions I have worked on with data.
 </p>
