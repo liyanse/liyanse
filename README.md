@@ -25,7 +25,7 @@ I'm currently working as a Machine Learning Engineer and Junior Data Analyst.
  I am obsessed with deriving better solutions from data, especially computer vision models.
  Welcome to my small world where I show you some of the solutions I have worked on with data.
 </p>
- - ⚡ Fun fact: I love playing board games and wild photography 😄If I could, I'd llove to work as a Machine Learning Engineer for Formula 1. (And yes, I love watching F1, take a guess at what team I support)
+ - ⚡ Fun fact: I love playing board games and wild photography 😄If I could, I'd love to work as a Machine Learning Engineer for Formula 1. (And yes, I love watching F1, take a guess at what team I support)
 </br>
 
 ### 🛠️: Skills:
