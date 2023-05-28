@@ -18,7 +18,7 @@
 
 ### About me!
 ---
-Ola 👋
+Hello 👋
 <p>I'm <b>Lians Wanjiku, a data analyst and Machine Learning Engineer.</b>
  </br>
 I'm currently working as a Machine Learning Engineer and Junior Data Analyst. 
