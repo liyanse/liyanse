@@ -20,7 +20,8 @@
 ---
 Hello 👋
  </br>
-I'm currently working as a Machine Learning Engineer and Junior Data Analyst. 
+I'm Data Analyst with crazy interest in Machine Learning.
+ Who am I kidding, I'm a Machine Learning Engineer
  I am obsessed with deriving better solutions from data, especially computer vision models.
  Welcome to my small world where I show you some of the solutions I have worked on with data.
 </p>
