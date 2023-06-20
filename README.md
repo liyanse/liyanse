@@ -35,7 +35,7 @@ I'm Data Analyst with crazy interest in Machine Learning.
 ### 🛠️: Skills:
 - **Proficient:** Python, Computer Vision(YOLOv), OpenAI, Machine Learning
 - **Moderate:** SQL, PowerBi
-- **Database:** SQL Server, MySQL
+- **Database:** SQL Server, MySQL, PostgreSQL
 
 ---
 <div>
