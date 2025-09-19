@@ -20,7 +20,7 @@
 ---
 Hello 👋
  </br>
-I'm a Data Engineer, I am obsessed with deriving better solutions from data, especially in Formula1 and Computer Vision.
+I'm an Analytics Associate, I am obsessed with deriving better solutions from data, especially in Formula1 and Computer Vision.
  Welcome to my small world where I show you some of the solutions I have worked on with data.
 
 </p>
